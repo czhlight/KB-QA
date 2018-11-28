@@ -16,14 +16,6 @@ FB5M.name:  The names of entities in FB5M.
 <br>
 <br>
 <br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
 Note: FB5M.name is sorted and presented by Qu et al.[1]. 
 
 
