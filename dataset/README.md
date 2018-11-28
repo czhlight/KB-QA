@@ -1,5 +1,8 @@
-FB5M.name is sorted and presented by Qu et al.[1]. 
-The context information we extracted will be uploaded after sorting out.
+FB2M.name:  The names of entities in FB2M.
+<br>
+FB2M.notable_types:  The notable types of entities in FB2M.
+<br>
+FB5M.name:  The names of entities in FB5M.
 <br>
 <br>
 <br>
@@ -21,24 +24,7 @@ The context information we extracted will be uploaded after sorting out.
 <br>
 <br>
 <br>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+Note: FB5M.name is sorted and presented by Qu et al.[1]. 
 
 
 
