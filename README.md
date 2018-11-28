@@ -2,4 +2,4 @@ Now we have uploaded FB2M.name, FB2M.notable_types and FB5M.name. These data are
 
 
 
-If you want to learn about other research work in our lab, please pay attention to our Idea Lab's GitHub account.The address is https://github.com/WUT-IDEA.
+If you want to learn about other research work in our lab, please pay attention to our **IDEA** Lab's GitHub account. The address is https://github.com/WUT-IDEA.
